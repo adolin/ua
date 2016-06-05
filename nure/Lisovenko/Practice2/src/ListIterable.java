@@ -1,0 +1,4 @@
+
+interface ListIterable {
+    ListIterator listIterator();
+}
